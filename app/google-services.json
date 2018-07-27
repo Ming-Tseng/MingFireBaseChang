@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "924133424808",
+    "firebase_url": "https://studycentertaipei.firebaseio.com",
+    "project_id": "studycentertaipei",
+    "storage_bucket": "studycentertaipei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924133424808:android:8e385dabff8a868e",
+        "android_client_info": {
+          "package_name": "tw.org.cmtseng.mingfirebasechang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924133424808-4c8l5bq9a4tn8c2hf3nlimh9e64fdicj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkPLJgMyw3_mLHGZy8UL33zKPYkxHKhpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

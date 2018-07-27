@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MingFireBaseChang</string>
+    <string name="firebase_email">EMAIL</string>
+    <string name="firebase_password">PASSWORD</string>
 </resources>
